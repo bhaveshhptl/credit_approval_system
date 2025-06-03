@@ -172,6 +172,27 @@ Returns a list of all loans for a customer with repayments left.
 
 ---
 
+### Video for Proof
+
+
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/03d5a4e9-fde7-4d3c-af2a-4df88382bbae
+
+
+
+
+
+
+
+
+
 ## 🗃️ Project Structure
 
 ```
