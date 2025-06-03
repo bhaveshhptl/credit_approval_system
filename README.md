@@ -21,7 +21,7 @@ A Django-based backend system to handle customer registration, credit scoring, a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/credit-approval-system.git
+git clone https://github.com/bhaveshhptl/credit-approval-system.git
 cd credit-approval-system
 ```
 
@@ -183,7 +183,12 @@ Returns a list of all loans for a customer with repayments left.
 
 
 
+
+
 https://github.com/user-attachments/assets/03d5a4e9-fde7-4d3c-af2a-4df88382bbae
+
+
+
 
 
 
@@ -213,8 +218,9 @@ credit_approval_system/
 │   ├── urls.py              # Project-wide URL config
 │   └── wsgi.py
 │
-├── customer_data.xlsx       # Initial customer data
-├── loan_data.xlsx           # Initial loan data
+├── data/
+│   ├── customer_data.xlsx       # Initial customer data
+│   ├── loan_data.xlsx           # Initial loan data
 ├── Dockerfile               # App Dockerfile
 ├── docker-compose.yml       # Docker Compose config
 ├── manage.py                # Django CLI entry point
