@@ -21,8 +21,8 @@ A Django-based backend system to handle customer registration, credit scoring, a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bhaveshhptl/credit-approval-system.git
-cd credit-approval-system
+git clone https://github.com/bhaveshhptl/credit_approval_system.git
+cd credit_approval_system
 ```
 
 ### 2. Set Up Environment Variables
